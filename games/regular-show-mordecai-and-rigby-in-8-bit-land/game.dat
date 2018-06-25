@@ -1,0 +1,14 @@
+title = "Regular Show: Mordecai and Rigby in 8-Bit Land"
+description = "Mordecai and Rigby travel through the game, defeating enemies they encountered in their past adventures. Eventually, they reach an 8-bit version of Exit 9B, created by Garett Bobby Ferguson and his son. \n\nGPU: GeForce GTX 950\nCPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz\nMemory: 8 GB RAM (7.9 GB RAM usable)\nCurrent resolution: 1360 x 768, 60Hz\nOperating system: Microsoft Windows 10 Pro\n7x native\n60fps-66fps"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000FD000"
+region = "eur"
+release_date = "2013-08-11"
+
+[[releases]]
+title = "00040000000EBD00"
+region = "Hoa Kỳ"
+release_date = "2013-10-29"
